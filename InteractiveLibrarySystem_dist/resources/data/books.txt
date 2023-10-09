@@ -1,0 +1,8 @@
+15::Pride and Prejudice::Jane Austen::1813::T. Egerton, Whitehall::false::
+23::Nineteen Eighty-Four::George Orwell::1949::Secker & Warburg::false::
+42::The Hitchhiker's Guide to the Galaxy::Douglas Adams::1979::Pan Books::false::
+43::The War of The Worlds::H.G. Wells::1898::H. G. Wells::false::
+44::Joe::Joe Lock::2018::Joe::true::
+45::A Dance with Dragons::George R.R Martin::2011::Voyager Books::false::
+46::A Storm of Swords::George R.R Martin::2000::Voyager Books::false::
+47::A Clash of Kings::George R.R Martin::1998::Voyager Books::false::
